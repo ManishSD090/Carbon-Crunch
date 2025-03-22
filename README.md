@@ -16,4 +16,4 @@ Additional Assets
 - Custom Fonts & Colors: Green-themed styling to align with the sustainability concept.  
 
 GitHub Repository
-🔗 []
+🔗 [https://manishsd090.github.io/Carbon-Crunch/]
